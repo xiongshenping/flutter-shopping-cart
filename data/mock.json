@@ -1,0 +1,82 @@
+[
+  {
+    "asin": "B0B75RC9C3",
+    "image_url": "assets/B0B75RC9C3.jpg",
+    "title": "Google Fitbit Inspire 3 Health and Fitness Tracker with Stress Management, Workout Intensity, Sleep Tracking, 24/7 Heart Rate and More, Midnight Zen/black, One Size (S and L Bands Included)",
+    "brand": "Fitbit",
+    "current_price": 99.95,
+    "rating": 4.5,
+    "review_count": 4195,
+    "description": "Health and fitness tracker with stress management, sleep tracking and 24/7 heart rate monitoring"
+  },
+  {
+    "asin": "B0CGXYVQ1P",
+    "image_url": "assets/B0CGXYVQ1P.jpg",
+    "title": "Ray-Ban Meta Glasses, Wayfarer - Matte Black, Polarized Gradient Graphite",
+    "brand": "Meta",
+    "current_price": 409.93,
+    "rating": 4,
+    "review_count": 1745,
+    "description": "Smart glasses with polarized gradient lenses in matte black"
+  },
+  {
+    "asin": "B0BWNYPCT1",
+    "image_url": "assets/B0BWNYPCT1.jpg",
+    "title": "Fujifilm Instax Mini 12 Instant Camera - Lilac Purple",
+    "brand": "Fujifilm",
+    "current_price": 89.99,
+    "rating": 4.5,
+    "review_count": 4487,
+    "description": "Instant camera in lilac purple color"
+  },
+  {
+    "asin": "B0DFJ2V9MM",
+    "image_url": "assets/B0DFJ2V9MM.jpg",
+    "title": "GoPro HERO13 Black Accessory Bundle - Includes The Handler, 2 Enduro Batteries, 2 Curved Adhesive Mounts, 64GB SanDisk MicroSD Card, and Carrying Case",
+    "brand": "GoPro",
+    "current_price": 619.99,
+    "rating": 4.5,
+    "review_count": 267,
+    "description": "GoPro camera accessory bundle with batteries, mounts and storage"
+  },
+  {
+    "asin": "B0BVNMK48Q",
+    "image_url": "assets/B0BVNMK48Q.jpg",
+    "title": "Polaroid Now 2nd Gen Everything Box - Black",
+    "brand": "Polaroid",
+    "current_price": 199.99,
+    "rating": 4.5,
+    "review_count": 11173,
+    "description": "Polaroid instant camera bundle in black"
+  },
+  {
+    "asin": "B0CG19FGQ5",
+    "image_url": "assets/B0CG19FGQ5.jpg",
+    "title": "DJI Osmo Pocket 3 Creator Combo, Vlogging Camera with 1'' CMOS & 4K/120fps Video, 3-Axis Stabilization, Face/Object Tracking, Fast Focusing, Mic Included for Clear Sound, Small Digital Camera",
+    "brand": "DJI",
+    "current_price": 929.00,
+    "rating": 4.5,
+    "review_count": 1771,
+    "description": "Vlogging camera with 4K video and stabilization"
+  },
+  {
+    "asin": "B0CFYRB82V",
+    "image_url": "assets/B0CFYRB82V.jpg",
+    "title": "Samsung Galaxy Buds FE, Graphite, Truly Wireless Bluetooth Earbuds, Active Noise Cancellation(ANC), Easy Pairing, Auto Switching, IPX2 Rating(CAD Version and Warranty)",
+    "brand": "Samsung",
+    "current_price": 99.99,
+    "rating": 4,
+    "review_count": 721,
+    "description": "Wireless earbuds with active noise cancellation"
+  },
+  {
+    "asin": "B0CG6NR413",
+    "image_url": "assets/B0CG6NR413.jpg",
+    "title": "Garmin vívoactive 5, Health and Fitness GPS Smartwatch, AMOLED Display, Up to 11 Days of Battery, Black",
+    "brand": "Garmin",
+    "current_price": 288.99,
+    "rating": 4.5,
+    "review_count": 5203,
+    "description": "Fitness smartwatch with AMOLED display"
+  }
+]
